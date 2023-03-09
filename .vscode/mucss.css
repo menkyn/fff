@@ -1,0 +1,12 @@
+.header{
+    background-color: rgb(155, 107, 194);
+    color: white;
+    border: 1px solid black;
+    height:  270px;
+}
+.main{
+    background-color: rgb(104, 140, 207);
+    color: white;
+    border: 1px solid black;
+    height:  300px;
+}
